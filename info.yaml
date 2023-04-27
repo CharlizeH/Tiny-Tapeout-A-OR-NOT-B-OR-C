@@ -21,7 +21,7 @@ documentation:
   author:       "Charlize Hill"      # 
   title:        "A+!B+C"      # 
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  ""      # Short description of what your project does
+  description:  "A circut that illuminates a led light"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
